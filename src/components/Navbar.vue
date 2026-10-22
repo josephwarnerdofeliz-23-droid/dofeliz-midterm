@@ -6,8 +6,9 @@ import logo from '../assets/cpu-logo.png'
   <nav>
     <img :src="logo" width="35" alt="College of Computer Studies logo" />
     <a href="#home">Home</a>
-    <a href="#programs">Programs</a>
+    <a href="#programs">Programs Offered</a>
     <a href="#faculty">Faculty & Staff</a>
+    <a href="#partner">Partnerships & Memberships</a>
   </nav>
 </template>
 

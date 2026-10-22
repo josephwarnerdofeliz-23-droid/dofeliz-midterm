@@ -6,7 +6,7 @@ import huawei from '../assets/huawei.jpg'
 </script>
 
 <template>
-  <section id="programs">
+  <section id="partner">
     <h1>Partnerships and Memberships</h1>
     <div class="grid">
       <a><img :src="cisco" width="200px" /></a>

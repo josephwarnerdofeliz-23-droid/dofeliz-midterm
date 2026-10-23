@@ -1,6 +1,6 @@
 {
-  "name": "dofeliz-midterm",
-  "version": "0.1.0",
+  "name": "dofeliz-finals",
+  "version": "1.1.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,7 +11,8 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "vue": "^3.5.42"
+    "vue": "^3.5.42",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@tsconfig/node24": "^24.0.5",

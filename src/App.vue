@@ -1,15 +1,10 @@
 <script setup>
 import Navbar from './components/Navbar.vue'
-import HeroSection from './components/HeroSection.vue'
-import ProgramsSection from './components/Programsoffered.vue'
-import FacultySection from './components/Facultyandstaffsection.vue'
-import Partnershipsandmemberships from './components/Partnerhipsandmemberships.vue'
+import Homeview from './components/Homeview.vue'
 </script>
 
 <template>
   <Navbar />
-  <HeroSection />
-  <ProgramsSection />
-  <FacultySection />
-  <Partnershipsandmemberships />
+  <Homeview />
+  <router-view />
 </template>
